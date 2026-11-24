@@ -1,0 +1,24 @@
+.buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 22px;
+}
+
+.buttons button {
+    width: 145px;
+    height: 38px;
+
+    background-color: white;
+    color: #159b8d;
+
+    border: 1px solid #159b8d;
+    border-radius: 5px;
+
+    font-size: 11px;
+    cursor: pointer;
+}
+
+.buttons .product {
+    background-color: #159b8d;
+    color: white;
+}
